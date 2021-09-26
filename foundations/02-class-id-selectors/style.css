@@ -1,0 +1,15 @@
+.pinkp{
+    background-color: rgb(228, 130, 147);
+    font-family: Verdana, sans-serif;
+}
+.bigum{
+    font-size: 24px;
+}
+#bluediv{
+    color:blue;
+    font-size: 36px;
+}
+#greendiv{
+    background-color: lightgreen;
+    font-weight:bold;
+}
